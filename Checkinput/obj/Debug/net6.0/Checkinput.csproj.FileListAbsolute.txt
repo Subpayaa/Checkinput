@@ -1,0 +1,15 @@
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\bin\Debug\net6.0\Checkinput.exe
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\bin\Debug\net6.0\Checkinput.deps.json
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\bin\Debug\net6.0\Checkinput.runtimeconfig.json
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\bin\Debug\net6.0\Checkinput.dll
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\bin\Debug\net6.0\Checkinput.pdb
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.csproj.AssemblyReference.cache
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.AssemblyInfoInputs.cache
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.AssemblyInfo.cs
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.csproj.CoreCompileInputs.cache
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.dll
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\refint\Checkinput.dll
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.pdb
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\Checkinput.genruntimeconfig.cache
+C:\Mhoo\Learning\C#\Checkinput\Checkinput\Checkinput\obj\Debug\net6.0\ref\Checkinput.dll
